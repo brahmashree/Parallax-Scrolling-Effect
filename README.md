@@ -1,4 +1,4 @@
-I learned about PARALLAX WEBSITE, which was very well explained by Love Babbar(Code Help). I've learned 3-D Transformation, 3-D Preserve, and a lot more.
+I learned about PARALLAX WEBSITE, it deal with "perspective" in CSS to apply 3-Dimensional properties in your website to make it more professional.
 
 Parallax scrolling, which creates a sense of depth on your site, is powerful because it is so engaging.
 
